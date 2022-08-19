@@ -1,0 +1,5 @@
+config.yml
+api-communication.har
+task-exports/
+
+venv/
