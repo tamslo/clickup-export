@@ -3,3 +3,5 @@ api-communication.har
 task-exports/
 
 venv/
+
+.DS_Store
